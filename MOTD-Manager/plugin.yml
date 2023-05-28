@@ -1,0 +1,7 @@
+main: de.xlucan.motdmanager.Main
+name: MOTD-ManagerbyxLucaN
+version: 1.0
+author: xLucaN
+
+commands:
+  motd:
